@@ -4,7 +4,7 @@ import ssl
 import sys
 
 files = glob('data/*.csv')
-fmt = 'https://github.com/muic-pattern-rekt-2018/Homework-01-Bayes/raw/master/{0}'
+fmt = 'https://github.com/muic-pattern-rekt-2018/Homework-2/raw/master/{0}'
 
 try:
   for f in files:
